@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Peter-Atia
-- 👀 I’m interested in Network Administration
-- Take CCNA 
-- 📫 How to reach me by using my email : potrosatia1@gmail.com
+- 👀 I’m interested in Mobile Development 
+- 📫 Reach me by using my email : potrosatia1@gmail.com
